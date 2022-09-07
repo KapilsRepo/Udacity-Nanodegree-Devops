@@ -52,3 +52,5 @@ Resources:
 4. servers.json     - Server Paramters
 5. Infra digram     
 6. Evidence Document    
+7. Udacity.zip and 
+8. Index.html
