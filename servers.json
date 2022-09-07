@@ -9,7 +9,7 @@
     } ,
     {
         "ParameterKey": "S3CodeArchive",
-        "ParameterValue": "udacity-404190891643.zip"
+        "ParameterValue": "udacity.zip"
     } ,
     {
     	"ParameterKey":"DistributionId",
